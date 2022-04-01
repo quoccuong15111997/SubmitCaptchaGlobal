@@ -1,1 +1,1 @@
-URL GOTO=javascript:{___grecaptcha_cfg.clients[0].I.I.callback('RESPONSE');}
+URL GOTO=javascript:{___grecaptcha_cfg.clients[0].Z.Z.callback('RESPONSE');}
